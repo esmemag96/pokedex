@@ -16,7 +16,7 @@ Esmeralda Pokedex is a web application that allows users to explore information 
 - **Frontend**: Vue.js
 - **Database**: MongoDB
 - **Pokémon API**: Uses PokeAPI to fetch Pokémon data.
-
+pokedex_user
 ## Prerequisites
 
 To run this project, you need to have installed:
@@ -59,6 +59,4 @@ This command will start both the backend (API) and the frontend simultaneously, 
 Once the application is running, you can access the Esmeralda Pokedex interface in your web browser at:
 
 http://localhost:8080/
-
-
 
