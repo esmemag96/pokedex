@@ -23,7 +23,6 @@ To run this project, you need to have installed:
 
 - Node.js (https://nodejs.org/)
 - npm (comes with Node.js)
-- MongoDB (https://www.mongodb.com/)
 
 ## Installation and Execution
 
