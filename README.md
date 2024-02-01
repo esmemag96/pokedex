@@ -28,33 +28,33 @@ To run this project, you need to have installed:
 ## Installation and Execution
 
 ### Clone the Repository
-´´´
+```
 git clone https://github.com/esmemag96/pokedex.git
 cd pokedex
-´´´
+```
 ### Install Dependencies
 
 #### Backend (API)
 
-´´´
+```
 cd api
 npm install
-´´´
+```
 #### Frontend (Vue.js)
 
-´´´
+```
 cd pokedex
 npm install
-´´´
+```
 ## Database Access
 You'll need to create a .env using the api/.env.example information.
 
 ### Run the Application
 
 At the project root, run:
-´´´
+```
 npm start
-´´´
+```
 This command will start both the backend (API) and the frontend simultaneously, thanks to `concurrently`.
 
 
