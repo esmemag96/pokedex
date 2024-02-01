@@ -35,21 +35,22 @@ cd pokedex
 ### Install Dependencies
 
 #### Backend (API)
-
+```
 cd api
 npm install
-
+```
 #### Frontend (Vue.js)
+```
 cd pokedex
 npm install
-
+```
 
 ### Run the Application
 
 At the project root, run:
-
+```
 npm start
-
+```
 This command will start both the backend (API) and the frontend simultaneously, thanks to `concurrently`.
 
 
