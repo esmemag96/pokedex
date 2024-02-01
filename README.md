@@ -47,7 +47,7 @@ cd pokedex
 npm install
 ´´´
 ## Database Access
-You'll need to create a .env using the .env.example information.
+You'll need to create a .env using the api/.env.example information.
 
 ### Run the Application
 
